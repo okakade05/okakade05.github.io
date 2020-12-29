@@ -19,7 +19,7 @@ url: 'https://okakade05.github.io'
 
 author: Omkar Kakade                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/1552522066390.jpeg   # support internet resources
 
 github:
   username: okakade05             # change to your github username
@@ -29,14 +29,15 @@ twitter:
 
 social:
   name: Omkar Kakade                  # it will shows as the copyright owner in Footer
-  email: omkar.kakade@gmail.com           # change to your email address
+  email: omkar.kakade@gmail.com         # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/o_kakade      # change to your twitter homepage
     - https://github.com/okakade05       # change to your github homepage
+    - https://www.linkedin.com/in/omkarkakade
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/omkarkakade
+    
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
