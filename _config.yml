@@ -9,7 +9,7 @@
 # --------------------------
 title: Omkar Kakade                          # the main title
 
-tagline: Software Engineer.  # it will display as the sub-title
+tagline: Software Engineer  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Personal Website of Omkar Kakade
@@ -19,7 +19,7 @@ url: 'https://okakade05.github.io'
 
 author: Omkar Kakade                  # change to your full name
 
-avatar: /assets/img/sample/1552522066390.jpeg   # support internet resources
+avatar: /assets/img/picture/1552522066390.jpeg   # support internet resources
 
 github:
   username: okakade05             # change to your github username
