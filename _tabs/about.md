@@ -37,6 +37,10 @@ You can learn more about me using the following links:
 - 1 AWS Certification.
 - Graduate Teaching Assistant - Computer Vision - Jan - May - 2019.
 
+# - 2018
+- Learn ML for the first time.
+- Build projects showcasing various approaches to solve [Parallel Computing Problems](https://github.com/okakade05/parallel-computing).
+
 # - 2017 
 - Begin MSc. Computer Science at RIT.
 
