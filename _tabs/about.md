@@ -27,24 +27,24 @@ You can learn more about me using the following links:
 
 
 # Timeline
-# - 2020 
+# 2020 
 - Graduated MSc. Computer Science from RIT - Dec 2020.
 - ML Engineer Intern - [Siemens](https://www.siemens.com/) - Jan - May - 2020 @ Orlando, FL.
 - 2 AWS Certifications.
 
-# - 2019
+# 2019
 - Software Developer Intern - [Siemens](https://www.siemens.com/) - May - Dec - 2019 @ Orlando, FL.
 - 1 AWS Certification.
 - Graduate Teaching Assistant - Computer Vision - Jan - May - 2019.
 
-# - 2018
+# 2018
 - Learn ML for the first time.
 - Build projects showcasing various approaches to solve [Parallel Computing Problems](https://github.com/okakade05/parallel-computing).
 
-# - 2017 
+# 2017 
 - Begin MSc. Computer Science at RIT.
 
-# - 2016
+# 2016
 - Graduated with Bachelor of Engineering - Computer Engineering from University of Pune, India.
 
 <!-- > **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page. -->
